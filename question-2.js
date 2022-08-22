@@ -21,7 +21,7 @@ async function getData() {
 
     resultsContainer.innerHTML = "";
 
-    for (let i = 0; i < facts.length; i++) {
+    for (let i = 0; i < facts; i += 1) {
        console.log(facts[i].name);
 
         if (i === 8) {
