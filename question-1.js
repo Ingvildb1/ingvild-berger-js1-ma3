@@ -1,10 +1,2 @@
-
-//Question 1
-//Convert the function below to an arrow function:
-
-//function getRemainder(a,b) {
-   // return a % b;
-   // }
-
-    // Answer Q1
+// Answer question-1
 const getRemainder = (a,b) => a % b;  
